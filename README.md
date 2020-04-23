@@ -7,8 +7,12 @@ https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part
 
 https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-3
 
-NOTES:
+
+My notes:
 https://github.com/chrissc6/EFCoreBasicsCH9/blob/master/CH9EFCoreNotes.docx
+
+Actual show notes:
+https://github.com/skimedic/presentations/tree/master/DOTNETCORE/EntityFrameworkCore
 
 
 Create Console App (.NET Core)
