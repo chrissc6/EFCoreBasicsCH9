@@ -1,5 +1,5 @@
 # Visual Studio Toolbox - Entity Framework Core
-##How to use entity framework core
+## How to use entity framework core
 
 https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-1
 https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-2
