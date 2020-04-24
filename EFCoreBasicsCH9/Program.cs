@@ -7,6 +7,8 @@ namespace EFCoreBasicsCH9
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //RunSamples();
+            Console.ReadLine();
         }
     }
 }
