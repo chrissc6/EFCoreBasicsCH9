@@ -7,6 +7,10 @@ https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part
 
 https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-3
 
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-4
+
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-5
+
 
 My notes:<br/>
 https://github.com/chrissc6/EFCoreBasicsCH9/blob/master/CH9EFCoreNotes.docx
