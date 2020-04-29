@@ -59,7 +59,11 @@ namespace EFCoreBasicsCH9
         {
             Console.WriteLine("*** Delete Entity *** ");
             var person = _context.Person.Find(1);
+            //This isnt in memory => retrieved from database
+            _context.Entry(person).State = EntityState.Deleted;
+            //This must be in memory => retrieved from database
             _context.Person.Remove(person);
+            _context.SaveChanges();
             return _context.ChangeTracker.Entries().First();
         }
 
@@ -68,6 +72,8 @@ namespace EFCoreBasicsCH9
             Console.WriteLine("*** Edit Entity *** ");
             var person = _context.Person.Find(2);
             person.LastName = "Franklin";
+            _context.Person.Update(person);
+            _context.SaveChanges();
             return _context.ChangeTracker.Entries().First();
         }
 
