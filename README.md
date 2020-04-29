@@ -16,7 +16,7 @@ My notes:<br/>
 https://github.com/chrissc6/EFCoreBasicsCH9/blob/master/CH9EFCoreNotes.docx
 
 Actual show notes:<br/>
-https://github.com/skimedic/presentations/tree/master/DOTNETCORE/EntityFrameworkCore
+https://github.com/skimedic/presentations/tree/master/DOTNETCORE/Channel9
 
 
 Create Console App (.NET Core)<br/>
